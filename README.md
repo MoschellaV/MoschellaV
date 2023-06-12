@@ -35,7 +35,7 @@
   
  💻 &emsp; I enjoy programming and sharing my knowledge. <br/><br/>
  💪 &emsp; Love to lift and practice calisthenics. <br/><br/>
- 🏫 &emsp; I go to school at the University of Guelph. <br/><br/>
+ 🏫 &emsp; I'm studying computer science at the [University of Guelph](https://www.uoguelph.ca/). <br/><br/>
  💬 &emsp; Ask me about anything [**here**](https://github.com/MoschellaV/MoschellaV/issues) or [**email**](mailto:vincemoschella04@gmail.com) me.
 
 </p>
