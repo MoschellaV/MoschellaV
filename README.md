@@ -31,7 +31,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" />
+ <img align="right" width="350" src="/assets/code2.gif" />
   
  💻 &emsp; I enjoy programming and sharing my knowledge. <br/><br/>
  💪 &emsp; Love to lift and practice calisthenics. <br/><br/>
